@@ -6,4 +6,6 @@ Coimbatore
 Hobbies:
 Pencil shading ,oration
 Throwball,Mehandi designing,
-jwellery making,
+jwellery making.
+
+Technical skills:C++,Javascript,HTML,CSS

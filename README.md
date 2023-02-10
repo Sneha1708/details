@@ -11,4 +11,7 @@ Pencil shading ,oration
 Throwball,Mehandi designing,
 jwellery making.
 
-Technical skills:C++,Javascript,HTML,CSS
+Technical skills:COMPLETED:C++,Javascript,HTML,CSS
+IN PROGRESS: JAVA,PYTHON
+
+
